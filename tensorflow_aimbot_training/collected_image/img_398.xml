@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collected_image</folder>
+	<filename>img_398.jpg</filename>
+	<path>D:\Users\Lin\Desktop\tensorflow_aimbot\tensorflow_aimbot_training\collected_image\img_398.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1281</width>
+		<height>721</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>272</ymin>
+			<xmax>603</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>
